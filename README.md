@@ -8,7 +8,7 @@ This API should also allow to perform a direct topup on the balance of a prepaid
 with voucher references or with a given credit value after a payment done by a credit
 card or with a credit value transfered.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Swagger-UI,
+To access this API; (the Specification, Postman Collection, Swagger file, 
 Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
 
 https://projects.tmforum.org/wiki/display/API/Open+API+Table
