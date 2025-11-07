@@ -1,14 +1,8 @@
-# TMF677_UsageConsumption
-TM Forum Open APIs (Apache 2.0) Usage Consumption Management API
+# TMF677 UsageConsumption
 
-This API should allow to view in real-time the balance of the various buckets (SMS,
-Voice, Data for example) that an user consumes with each of his devices and the usages
-done out of the bucket. An usage report retrieve the data related to these balances.
-This API should also allow to perform a direct topup on the balance of a prepaid bucket
-with voucher references or with a given credit value after a payment done by a credit
-card or with a credit value transfered.
+TM Forum Open API (Apache 2.0) UsageConsumption API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, 
-Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+Voice, Data for example) that an user consumes with each of his devices and the usages done out of the bucket. An usage report retrieve the data related to these balances. This API should also allow to perform a direct topup on the balance of a prepaid bucket with voucher references or with a given credit value after a payment done by a credit card or with a credit value transfered.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
